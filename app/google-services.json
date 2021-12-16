@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205290963025",
+    "project_id": "mechanicside",
+    "storage_bucket": "mechanicside.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205290963025:android:55961a31d868e16e6ab870",
+        "android_client_info": {
+          "package_name": "com.example.mechanicside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205290963025-h4no8nnahqqfea6m95o8sjesn0g1600i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mechanicside",
+            "certificate_hash": "dd85c2bb4ad96e532c2ff6ba73a41a63687ab7b8"
+          }
+        },
+        {
+          "client_id": "205290963025-4bkc86176qoaue0jp2ntss0s9r6medra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm81uPeFeUMTKPWBjAoHc0aTuxPEKa5S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205290963025-4bkc86176qoaue0jp2ntss0s9r6medra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
